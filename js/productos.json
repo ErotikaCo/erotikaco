@@ -1,0 +1,171 @@
+[
+    {
+        "id": "lubChocolate",
+        "titulo": "Lubricante Chocolate Sen Intimo x30ml",
+        "imagen": "./img/lubricantes/Lub Caliente Sen Intimo Chocolate.png",
+        "categoria": {
+            "nombre": "LUBRICANTES",
+            "id": "lubricantes"
+        },
+        "precio": 26500
+    },
+    {
+        "id": "MegaVitAdva",
+        "titulo": "Mega Vit Advanced x 3 Tabletas",
+        "imagen": "./img/retardantes/Mega Vit Advanced x 3 Tabletas.png",
+        "categoria": {
+            "nombre": "RETARDANTES",
+            "id": "retardantes"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "lubMulti",
+        "titulo": "Lubricante multiorgasmos Sen Intimo x30ml",
+        "imagen": "./img/lubricantes/Multiorgasmico Sen 30ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 37500
+    },
+    {
+        "id": "AnillvibraAva",
+        "titulo": "Anillo vibrador Ava",
+        "imagen": "./img/vibradores/Anillo vibrador Ava.png",
+        "categoria": {
+            "nombre": "VIBRADORES",
+            "id": "vibradores"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Dadoerótix2unidades",
+        "titulo": "Dados erótico x2 unidades",
+        "imagen": "./img/juegos de mesa/Dado erótico x2 unidades.png",
+        "categoria": {
+            "nombre": "JUEGOS DE MESA",
+            "id": "juegosdemesa"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "lubAnalPequeño",
+        "titulo": "Adormecedor y Lubricante Anal Sen Intimo x10ml",
+        "imagen": "./img/lubricantes/Adormecedor y Lubricante Anal Sen 10ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 25500
+    },
+    {
+        "id": "lubMultiElectri",
+        "titulo": "Lubricante multiorgasmos electrizante Sen Intimo x5ml",
+        "imagen": "./img/lubricantes/Multiorgasmos electrizante x5ml.webp",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 39500
+    },
+    {
+        "id": "LubNeutro",
+        "titulo": "Lubricante neutro Sen Intimo x30ml",
+        "imagen": "./img/lubricantes/Lub intimo neutro x30ml.webp",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 22500
+    },
+    {
+        "id": "LubChocoSexSyme",
+        "titulo": "Lubricante Chocolate Sex Syme sachet x4ml",
+        "imagen": "./img/lubricantes/Lubricante sachet chocolate x4ml.webp",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "LubChocoMini",
+        "titulo": "Lubricante chocolate Sen Intimo sachet x7ml",
+        "imagen": "./img/lubricantes/Lubricante sachet chocolate x7ml.webp",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "LubAnalMini",
+        "titulo": "Lubricante anal Sen Intimo sachet x7ml",
+        "imagen": "./img/lubricantes/Lubricante intimo anal Sen sachet x7ml.webp",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 12500
+    },
+    {
+        "id": "Retarrhinspraydorado ",
+        "titulo": "Retardante rhino spray dorado",
+        "imagen": "./img/retardantes/Retardante rhino spray dorado.webp",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 16500
+    },
+    {
+        "id": "LubRetarSexSyme",
+        "titulo": "Lubricante Retardante Sex Syme sachet x4ml",
+        "imagen": "./img/lubricantes/Lubricante sachet retardante x4ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "Retardante rhino forte",
+        "titulo": "Retardante rhino forte",
+        "imagen": "./img/retardantes/Retardante Rhino forte.webp",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 17500
+    },
+    {
+        "id": "RetarcremRhinoblack",
+        "titulo": "Retardante crema rhino black",
+        "imagen": "./img/retardantes/Retardante crema Rhino black.webp",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 12500
+    },
+    {
+        "id": "Tomatodopenitoposes ",
+        "titulo": "Toma todo penitencia o poses",
+        "imagen": "./img/juegos de mesa/Toma todo penitencia o poses.png",
+        "categoria": {
+            "id": "juegosdemesa"
+        },
+        "precio": 11500
+    },
+    {
+        "id": "HuevvibraAnna",
+        "titulo": "Huevo vibrador Anna",
+        "imagen": "./img/vibradores/Huevo vibrador Anna.png",
+        "categoria": {
+            "nombre": "VIBRADORES",
+            "id": "vibradores"
+        },
+        "precio": 65500
+    },
+    {
+        "id": "Dado erótico x3 unidades",
+        "titulo": "Dado erótico x3 unidades",
+        "imagen": "./img/juegos de mesa/Dado erótico x3 unidades.png",
+        "categoria": {
+            "id": "juegosdemesa"
+        },
+        "precio": 13500
+    }
+]
+
+    
