@@ -444,12 +444,6 @@ main {
     margin: 0 5px; /* Agrega margen entre los botones y el número */
 }
 
-.incrementar-cantidad:hover,
-.decrementar-cantidad:hover {
-    background-color: var(--clr-main-light);
-    color: var(--clr-main);
-}
-
 .centertext{
     text-align: center;
 }
