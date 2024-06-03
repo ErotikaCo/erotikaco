@@ -490,3 +490,8 @@ ul.menu:hover::-webkit-scrollbar-track {
     height: 100px;
     width: 100px;
 }
+
+.back-arrow-icon{
+    width: 25px;
+    height: 25px;
+}
