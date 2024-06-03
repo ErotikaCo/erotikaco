@@ -220,6 +220,10 @@ main {
 
 /** CARRITO **/
 
+.carrito{
+    font-size: 2rem;
+}
+
 .contenedor-carrito {
     display: flex;
     flex-direction: column;
