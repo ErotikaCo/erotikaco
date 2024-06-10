@@ -73,7 +73,7 @@
         "categoria": {
             "id": "lubricantes"
         },
-        "precio": 22500
+        "precio": 23500
     },
     {
         "id": "LubChocoSexSyme",
@@ -91,7 +91,7 @@
         "categoria": {
             "id": "lubricantes"
         },
-        "precio": 6500
+        "precio": 10000
     },
     {
         "id": "LubAnalMini",
@@ -100,7 +100,7 @@
         "categoria": {
             "id": "lubricantes"
         },
-        "precio": 12500
+        "precio": 13500
     },
     {
         "id": "Retarrhinspraydorado ",
